@@ -1,6 +1,6 @@
 # Ideas
 
-🤔:raised_hands::thought_balloon::sparkles:
+🤔:sparkles::thought_balloon::raised_hands:
 
 This repo should contain project ideas that I don't want to forget about.
 
